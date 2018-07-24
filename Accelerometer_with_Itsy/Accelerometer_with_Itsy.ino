@@ -1,4 +1,5 @@
 //NOTE: borrowed some code from https://github.com/sparkfun/ADXL337_Breakout/blob/master/firmware/ADXL337_example/ADXL337_example.ino
+//This comment is a test
 
 // Includes
 #include <math.h>
